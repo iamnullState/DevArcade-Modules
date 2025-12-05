@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Web-Development/Policies-Agreement/Data-Retention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Data-Retention"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web-Development/Policies-Agreement/Data-Retention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Data-Retention"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web-Development/Policies-Agreement/Data-Retention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Data-Retention"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Web-Development/Policies-Agreement/Data-Retention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Data-Retention"
             }
           }
         ]
@@ -183,6 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d891077bb107cfa",
-  "lastOpenFiles": []
+  "active": "bb77a0b6d0d48452",
+  "lastOpenFiles": [
+    "Code/CSS/TailwindCSS",
+    "Code/CSS/Bootstrap",
+    "Frameworks/Vue.js",
+    "Frameworks/Angular",
+    "Frameworks/React",
+    "Frameworks/Laravel",
+    "Frameworks/Wordpress",
+    "Code/PHP",
+    "Code/JavaScript",
+    "Code/CSS",
+    "Code/HTML",
+    "Web-Development/Policies-Agreement/Cookies.md",
+    "Web-Development/Policies-Agreement/Data-Retention.md",
+    "DevOps/Operating-Systems/Windows-11-WSL.md",
+    "DevOps/Operating-Systems/Almalinux-Stream.md",
+    "DevOps/Operating-Systems/MacOS-Silicon-Based.md",
+    "DevOps/Operating-Systems/Ubuntu-Desktop-LTS-24.md",
+    "DevOps/Operating-Systems/Ubuntu-Server-LTS-24.md",
+    "README.md",
+    "Roadmap.md",
+    "DevArcade.io.md",
+    "Conventions.md",
+    "Glossary.md"
+  ]
 }
